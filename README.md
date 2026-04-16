@@ -80,18 +80,16 @@ lib/
 
 (Add your screenshots here)
 
-![Login Screen](images/login.png)
-![Home Screen - Bento Grid](images/home.png)
-![Idea Screen](images/idea.png)
-![Profile Screen](images/profile.png)
+<img width="1272" height="2800" alt="WhatsApp Image 2026-04-16 at 12 33 01 PM" src="https://github.com/user-attachments/assets/5e6e8c43-f261-4e83-b14e-e13ba0c934e9" />
+<img width="1272" height="2800" alt="WhatsApp Image 2026-04-16 at 12 33 01 PM (3)" src="https://github.com/user-attachments/assets/d4fbb9db-4b32-4c8c-af84-ed9d1cecd967" />
+
+
+
 
 ---
 
 ## 🎥 Video Demo
 
-<!-- Paste your demo video link below -->
-
-<!-- Example: https://your-video-link.com -->
 
 ---
 
