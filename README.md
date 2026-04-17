@@ -78,18 +78,17 @@ lib/
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
-
-<img width="1272" height="2800" alt="WhatsApp Image 2026-04-16 at 12 33 01 PM" src="https://github.com/user-attachments/assets/5e6e8c43-f261-4e83-b14e-e13ba0c934e9" />
-<img width="1272" height="2800" alt="WhatsApp Image 2026-04-16 at 12 33 01 PM (3)" src="https://github.com/user-attachments/assets/d4fbb9db-4b32-4c8c-af84-ed9d1cecd967" />
-
+<img width="1272" height="2800" alt="WhatsApp Image 2026-04-16 at 12 33 01 PM (1)" src="https://github.com/user-attachments/assets/9b79d187-2fdb-4992-ba0b-b63b6d776fb9" />
+<img width="1272" height="2800" alt="WhatsApp Image 2026-04-16 at 12 33 01 PM (2)" src="https://github.com/user-attachments/assets/09464b3e-36e8-4241-8c83-627999cdb1fe" />
+<img width="1272" height="2800" alt="WhatsApp Image 2026-04-16 at 12 33 01 PM (3)" src="https://github.com/user-attachments/assets/03ba2017-d8ec-4df9-b36c-5f276d69b8af" />
+<img width="1272" height="2800" alt="WhatsApp Image 2026-04-16 at 12 33 01 PM" src="https://github.com/user-attachments/assets/4208845f-3580-4507-857c-cbc6514cb852" />
 
 
 
 ---
 
 ## 🎥 Video Demo
-
+https://drive.google.com/file/d/1lFIvrvy94mChvUBPBYcJlmkhJA6LUZXq/view?usp=sharing
 
 ---
 
